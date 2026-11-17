@@ -4,7 +4,6 @@ A web-based application for managing a library's book collection. Staff sign in,
 
 > Built with PHP and MySQL as a classroom example of a clean, well-documented repository. It is a teaching demo, not a production system.
 
-![Library dashboard](docs/screenshots/dashboard.png)
 
 ## Tech Stack
 
